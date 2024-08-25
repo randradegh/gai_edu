@@ -64,7 +64,7 @@ with tab1:
         with st.container(height=450, border=True):
             st.image("col_01.webp", width=700, caption="")
             """
-                :orange[**Actualízarte con lo último en tecnología educativa**] 
+                :orange[**Actualizarte con lo último en tecnología educativa**] 
                 
                 La IA generativa es una de las tendencias más poderosas en la educación actual. Este curso te brindará las herramientas necesarias para estar a la vanguardia.
             """
