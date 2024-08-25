@@ -53,7 +53,7 @@ with tab1:
     
     ¿Te has preguntado cómo puedes utilizarla en tu enseñanza para mejorar la experiencia de aprendizaje de tus estudiantes?
 
-    **Te invitamos a inscribirte en el curso **«Inteligencia Artificial en la Enseñanza Media y Superior»**, diseñado especialmente para profesores como tú, que buscan innovar y llevar su práctica docente al siguiente nivel.**
+    :orange[**Te invitamos a inscribirte en el curso **«Inteligencia Artificial en la Enseñanza Media y Superior»**, diseñado especialmente para profesores como tú, que buscan innovar y llevar su práctica docente al siguiente nivel.**]
     
     ### ¿Qué lograrás al inscribirte?
     """
