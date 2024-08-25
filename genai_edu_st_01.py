@@ -49,9 +49,11 @@ with tab1:
 
     ### :book: ¿Eres docente en educación media o superior? ¡Este curso es para ti!
 
-    En un mundo donde la tecnología avanza a pasos agigantados, la Inteligencia Artificial (IA) se ha convertido en una herramienta clave para transformar la educación. ¿Te has preguntado cómo puedes utilizarla en tu enseñanza para mejorar la experiencia de aprendizaje de tus estudiantes?
+    En un mundo donde la tecnología avanza a pasos agigantados, la Inteligencia Artificial (IA) se ha convertido en una herramienta clave para transformar la educación. 
+    
+    ¿Te has preguntado cómo puedes utilizarla en tu enseñanza para mejorar la experiencia de aprendizaje de tus estudiantes?
 
-    Te invitamos a inscribirte en el curso **«Inteligencia Artificial en la Enseñanza Media y Superior»**, diseñado especialmente para profesores como tú, que buscan innovar y llevar su práctica docente al siguiente nivel.
+    **Te invitamos a inscribirte en el curso **«Inteligencia Artificial en la Enseñanza Media y Superior»**, diseñado especialmente para profesores como tú, que buscan innovar y llevar su práctica docente al siguiente nivel.**
     
     ### ¿Qué lograrás al inscribirte?
     """
