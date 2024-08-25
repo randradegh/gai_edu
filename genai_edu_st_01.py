@@ -8,6 +8,32 @@ st.set_page_config(
     menu_items=None
     )
 
+def color_box(text, color="#013adf"):
+    return f"""
+    <div style="
+        background-color: {color};
+        padding: 10px;
+        border-radius: 5px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    ">
+        <p style="margin: 0;">{text}</p>
+    </div>
+    """
+
+st.markdown("""
+    <style>
+        .stColumn > div > div > div {
+            height: 100%;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
+
+
+
 st.image("header.png", caption="")
 
 """
@@ -27,12 +53,37 @@ with tab1:
 
     Te invitamos a inscribirte en el curso **«Inteligencia Artificial en la Enseñanza Media y Superior»**, diseñado especialmente para profesores como tú, que buscan innovar y llevar su práctica docente al siguiente nivel.
     
-    ### ¿Por qué debes inscribirte?
+    ### ¿Qué lograrás al inscribirte?
+    """
 
-    - Actualízate con lo último en tecnología educativa: La IA generativa es una de las tendencias más poderosas en la educación actual. Este curso te brindará las herramientas necesarias para estar a la vanguardia.
-    - Aprende a crear experiencias de aprendizaje personalizadas: Con la IA, podrás adaptar tus clases a las necesidades específicas de tus estudiantes, haciendo que el aprendizaje sea más efectivo y atractivo.
-    - Desarrolla recursos didácticos innovadores: Saldrás del curso con materiales que podrás implementar de inmediato en tus clases.
+    col1, col2, col3 = st.columns(3)
 
+    with col1:
+        with st.container(height=450, border=True):
+            st.image("col_01.webp", width=700, caption="")
+            """
+                :orange[**Actualízarte con lo último en tecnología educativa**] 
+                
+                La IA generativa es una de las tendencias más poderosas en la educación actual. Este curso te brindará las herramientas necesarias para estar a la vanguardia.
+            """
+    with col2:
+        with st.container(height=450, border=True):
+            st.image("col_03.webp", width=700, caption="")            
+            """
+            :orange[**Aprender a crear experiencias de aprendizaje personalizadas**]
+
+            Con la IA, podrás adaptar tus clases a las necesidades específicas de tus estudiantes, haciendo que el aprendizaje sea más efectivo y atractivo."""
+
+    with col3:
+        with st.container(height=450, border=True):
+            st.image("col_02.webp", width=700, caption="")
+            """
+            :orange[**Desarrollar recursos didácticos innovadores acordes con tus planes de estudio**]
+            
+            Saldrás del curso con materiales que podrás implementar de inmediato en tus clases y podrás generar más al regresar a tus actividades académicas cotidianas."""
+
+    
+    """
     ### Modalidad del curso
 
     El curso se llevará a cabo de manera virtual a través de Google Meet, permitiéndote participar desde la comodidad de tu hogar o lugar de trabajo.
@@ -45,7 +96,6 @@ with tab1:
 
     ---
 """
-    
 
 with tab2:
     """
