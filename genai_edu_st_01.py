@@ -104,16 +104,18 @@ with tab2:
     En este curso, aprenderás a integrar las herramientas de IA Generativa en tu práctica docente, llevando tus clases al siguiente nivel y preparando a tus estudiantes para los desafíos del siglo XXI.
 
     - Conoce los conceptos básicos de la tecnología de los grandes modelos de lenguaje (LLMs) y la manera de aprovecharlos para la educación.
-    - Descubre cómo la IA puede revolucionar la creación de contenido educativo, desde guías de estudio hasta simulaciones de laboratorio.
+    - Descubre cómo la IA puede revolucionar la creación de contenido educativo, desde guías de estudio hasta exámenes de varios tipos.
     - Aprende a utilizar la IA Generativa  para personalizar el aprendizaje, automatizar evaluaciones y desarrollar proyectos prácticos que fomenten el pensamiento crítico y la resolución de problemas.
-    - Crea, de manera automática y en muy poco tiempo, experiencias de aprendizaje personalizadas utilizando ChatGPT y otros modelos de inteligencia artificial generativa
-    Reflexiona sobre las implicaciones éticas de la IA en la educación, asegurando un uso responsable y equitativo de estas tecnologías.
+    - Crea, de manera automática y en muy poco tiempo, experiencias de aprendizaje personalizadas utilizando ChatGPT y otros modelos de inteligencia artificial generativa.
+    - Reflexiona sobre las implicaciones éticas de la IA en la educación, asegurando un uso responsable y equitativo de estas tecnologías.
 
     ### :blue_book: ¿Por qué este curso es para ti?
 
     Porque la educación del futuro necesita docentes preparados para aprovechar las herramientas tecnológicas que están transformando el mundo. Este curso te dará las habilidades necesarias para innovar en tu enseñanza y maximizar el potencial de tus estudiantes.
 
-    No pierdas esta oportunidad! Inscríbete y sé parte del cambio en la educación. Juntos, podemos hacer que el aprendizaje sea más dinámico, accesible y efectivo.
+    No pierdas esta oportunidad! Inscríbete y sé parte del cambio en la educación. 
+    
+    Juntos, podemos hacer que el aprendizaje sea más dinámico, accesible y efectivo.
 
     ### :compass: Programa del curso
 
@@ -184,14 +186,16 @@ with tab4:
         - Clabe: 072 180 00015014967 5
 
     Si requieres factura debes enviar los datos de facturación y se agregará el 16% de IVA al precio del evento.
+    
     Envía una imagen clara del depósito o transferencia a:
 
     randradedev@gmail.com 
     
     poniendo en el título del mensaje su nombre y el texto ***Pago del curso de GenAI en educación***.
+    
     Una vez verificado el pago se enviará un mensaje acreditando el mismo.
     
-    Posteriormente se enviará un correo con los datos para la conexión a la sesión de Meet y algunas indicaciones adicionales sobre el curso.
+    Posteriormente se te enviará un correo con los datos para la conexión a la sesión de Meet y algunas indicaciones adicionales sobre el curso.
 
     #### ¡Te esperamos para explorar juntos cómo la Inteligencia Artificial puede revolucionar tu enseñanza!
 
